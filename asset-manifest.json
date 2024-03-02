@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hethongbanhang/static/css/main.1e2295c8.css",
+    "main.js": "/hethongbanhang/static/js/main.c690281c.js",
+    "static/js/453.e09e0db2.chunk.js": "/hethongbanhang/static/js/453.e09e0db2.chunk.js",
+    "index.html": "/hethongbanhang/index.html",
+    "main.1e2295c8.css.map": "/hethongbanhang/static/css/main.1e2295c8.css.map",
+    "main.c690281c.js.map": "/hethongbanhang/static/js/main.c690281c.js.map",
+    "453.e09e0db2.chunk.js.map": "/hethongbanhang/static/js/453.e09e0db2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e2295c8.css",
+    "static/js/main.c690281c.js"
+  ]
+}
